@@ -1,0 +1,122 @@
+.title{
+    color: darkgrey;
+    text-align: center;
+}
+.menu {
+    display: block;
+    justify-content: flex-end;
+}
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 10px;
+}
+nav ul{
+    margin: 1 em 0;
+    padding: 0;
+    text-align: center;
+}
+.descript{
+     text-align: center;
+}
+#data{
+    text-align: left;
+}
+.food{
+    padding-top: 120px;
+    text-align: center;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+.nameof{
+    margin-top: -5px;
+}
+.links{
+   display: inline-block;
+    list-style: none;
+    margin: 0 10px;
+}
+.navigation{
+    margin: 1 em 0;
+    padding: 0;
+    text-align: center;
+}
+#fix {
+    padding-top: 6.5px;
+    }
+
+}
+    #resta, #restb, #restc, #restd, #reste, #restf, #restg, #parka, #parkb, #parkc, #eventimg2, #eventimg1 {
+    
+        max-height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 80px;
+        min-width: 500px;
+        width: 500px;
+        height: auto;
+}
+
+body {
+  font-family: Garamond, serif;
+  font-size: 24px;  
+    color: darkgray;
+    font-weight: 400
+}
+
+h1 {
+  font-family: garamond, serif;
+  font-size: 46px; 
+}
+.big {
+    text-align: center;
+    font-family: "bokor", system-ui;
+    font-style: unset;
+    font-size: 40px;
+    margin-bottom: -30px;
+    
+    
+}
+.bokor-regular {
+  font-family: "Bokor", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/grunge-style-background-with-scratched-texture-overlay_1048-16243.jpg);
+    background-color: #D81258;
+    background-blend-mode: color-burn 
+}
+.background-image {
+    filter: blur(5px);
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-family: "Bokor"
+    
+}
+#second {
+    margin-top: -115px;
+    font-style: italic;
+    font-size: 500%;
+    padding-left: 200px
+}
+#first {
+    padding-right: 60px;
+}
+#wife{
+    display: block;
+    height: auto;
+    border-radius: 400px;
+    max-width: 400px;
+    max-height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+p {
+    text-align: center;
+    font-weight: bold;
+}
